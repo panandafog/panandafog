@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div>
+<div layout="center">
     <picture>
         <source 
           srcset="https://github-readme-stats.vercel.app/api?username=panandafog&show_icons=true&hide_border=true&hide_rank=true&disable_animations=true"
